@@ -1,0 +1,1 @@
+This folder provides Latex and Word templates for the ISMIR2020 call for music.
